@@ -1,0 +1,28 @@
+1. Functions, Stored Procedures and Triggers
+**Function**  
+1. **Definition:** Functions are the *routines* that could be called to perform certain operations and return the results as a value or in tabular form.  
+2. **Parameter:** Function accepts only input parameters.  
+3. **Return Value:** Function *must* return any value, hence always has RETURN and RETURNS arguments.  
+4. **Invocation:** Function is called from *SELECT* statements, another *function*, *stored procedures* and *triggers*.  
+5. **Execution:** Function can only be called whenever required.  
+     
+**Stored Procedure**  
+1. **Definition:** Stored procedures are the *pre-compiled set of SQL statements* which can be stored and reused over and over again.  
+2. **Parameter:** Stored Procedures accepts both *in* and *out* parameters.   
+3. **Return Value:** Stored Procedures *may or may not* return any result.      
+4. **Invocation:** Stored procedures can be invoked from another *stored procedures*, *triggers* and *not from functions*.  
+5. **Execution:** Stored procedures store the compiled object after first execution, and hence reuses the same for subsequent executions.  
+    
+**Triggers**  
+1. **Definition:** Triggers are the *stored procedures* which perform operations in response to certain events occuring in the databases.  
+2. **Parameter:** Triggers *do not accept* any parameters.  
+3. **Return Value:** Triggers *never* return any result.  
+4. **Invocation:** Trigger *can not be invoked from either* stored procedures, functions or another triggers.  
+5. **Execution:** Triggers are executed only as the automatic response for certain events in databases.  
+-------------------------------------------------------------------------------------------------------------------------------------------
+Files, Scripts and Modules
+File: Typically, a Python file is any file that contains code. Most Python files have the extension .py.
+
+Script: A Python script is a file that you intend to execute from the command line to accomplish a task.
+
+Module: A Python module is a file that you intend to import from within another module or a script, or from the interactive interpreter.
