@@ -117,7 +117,7 @@ The major difference between a list comprehension and a generator expression is 
 # Unstructured Databases
 
 ### MongoDb
-Reference - https://towardsdatascience.com/8-examples-to-query-a-nosql-database-fc3dd1c9a8c
+[Reference](https://towardsdatascience.com/8-examples-to-query-a-nosql-database-fc3dd1c9a8c)
 
 # REST 
 
@@ -126,12 +126,14 @@ Architecture
 
 ## RESTful Web Services
 Services that obeys REST constraints
-Reference 1 - Wikipedia: REST
-Reference 2 - https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
+[Reference 1]Wikipedia: REST
+[Reference 2](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
 
 ### Requests Library
 [Overview](https://docs.python-requests.org/en/master/user/quickstart/)  
 [Implementation Guide](https://www.nylas.com/blog/use-python-requests-module-rest-apis/#how-to-use-python-requests)
+[OAuth](https://datatracker.ietf.org/doc/html/rfc6749)
+[Different Authorization Methods - e.g. for Spotify](https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow)
 
 # Django
 
