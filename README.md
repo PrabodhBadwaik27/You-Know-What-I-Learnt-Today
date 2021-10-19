@@ -116,8 +116,17 @@ The major difference between a list comprehension and a generator expression is 
 
 # Unstructured Databases
 
-### MongoDb
-[Reference](https://towardsdatascience.com/8-examples-to-query-a-nosql-database-fc3dd1c9a8c)
+## MongoDb
+
+### The Document Model
+MongoDB stores data in documents (in BSON format files).
+BSON (Binary JSON) is a binary representation of JSON (JavaScript Object Notation)
+
+[NoSQL Databases](https://www.mongodb.com/nosql-explained)
+[Database and Collections](https://docs.mongodb.com/manual/core/databases-and-collections/)
+[CRUD Operations](https://docs.mongodb.com/manual/crud/)
+[Bulk Write Operations](https://docs.mongodb.com/manual/core/bulk-write-operations/)
+[SQL to NoSQL Queries](https://towardsdatascience.com/8-examples-to-query-a-nosql-database-fc3dd1c9a8c)
 
 # REST 
 
