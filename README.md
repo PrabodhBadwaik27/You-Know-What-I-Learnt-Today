@@ -107,6 +107,8 @@ The major difference between a list comprehension and a generator expression is 
     - Generators do not store the complete set of values, but create them on the fly
     - **yield** keyword is used to generate values of the iterator 
 
+### Pickle
+“Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy. Pickling (and unpickling) is alternatively known as “serialization”, “marshalling,” 1 or “flattening”; however, to avoid confusion, the terms used here are “pickling” and “unpickling”.
 
 # SQL 
 ## Stored Procedures
