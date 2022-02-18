@@ -16,10 +16,12 @@
 ### Process
 Important Processes
 1. Init process - PID=1
-2. [Zombies](https://www.linuxfordevices.com/tutorials/linux/defunct-zombie-process)
+2. Zombies - PPID=1
+  a. [What are Zombies?](https://www.linuxfordevices.com/tutorials/linux/defunct-zombie-process)
+  b. [Cleaning Zombies](https://www.baeldung.com/linux/clean-zombie-process)
 3. Daemons
-4. Orphan Process
-[Reference](https://www.tecmint.com/linux-process-management/)
+4. Orphan Process  
+[Reference](https://www.tecmint.com/linux-process-management/)  
 [Reference 2](https://techaccess.in/2021/05/07/zombie-daemon-and-orphan-process/)
 
 ### Threads
